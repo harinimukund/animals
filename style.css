@@ -1,0 +1,30 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: darkgrey;
+}
+.header_div{
+    background-color:darkgrey;
+    color:maroon;   
+}
+.header_div p{
+    font-family:"Roboto", sans-serif;
+    color:gainsboro;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+.main_div button{
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+    font-family: "Roboto", sans-serif;
+}
+.footer_div{
+    position:fixed;
+    bottom:0;
+    background-color:darkgrey;
+    width:100%;
+    text-align:center;
+    line-height: 3;
+}
